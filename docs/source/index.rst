@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+79king
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`79king <https://79king.market/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu Châu Á với đầy đủ các sản phẩm như nổ hũ, casino, bắn cá, thể thao,... cùng hàng ngàn ưu đãi hấp dẫn hứa hẹn sẽ mang đến cho hội viên một trải nghiệm thú vị.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Liên Hệ:
 
-.. note::
+Địa chỉ: Xuân Đông, Cẩm Mỹ, Đồng Nai, Việt Nam
 
-   This project is under active development.
+Email: 79kingmarrket@gmail.com
 
-Contents
---------
+Phone: 0979851222
 
-.. toctree::
+Website: https://79king.market/
 
-   usage
-   api
+Hashtag: #79king #79kingmarket #nhacai79king #trangchu79king #dangky79king
